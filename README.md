@@ -1,2 +1,0 @@
-# P4LAB1
-P4LAB1_GarciaFernandezAnthony
